@@ -1,18 +1,18 @@
-#Alibaba
+# Alibaba
 ||httpdns.alicdn.com
 ||httpdns-api.aliyuncs.com
 ||httpdns-sc.aliyuncs.com
 @@||203.107.1.0/24
 
-#Baidu
+# Baidu
 ||httpsdns.baidu.com
 ||httpdns.baidu.com
 
-#BaiduBCE
+# BaiduBCE
 ||httpdns.baidubce.com
 @@||186.76.76.200/32
 
-#Bilibili
+# Bilibili
 ||httpdns.bilivideo.com
 @@||47.101.175.206/32
 @@||47.100.123.169/32
@@ -31,27 +31,27 @@
 @@||112.64.218.119/32
 @@||112.65.200.117/32
 
-#Huawei
+# Huawei
 ||httpdns.c.cdnhwc2.com
 
-#JD
+# JD
 ||dns.jd.com
 @@||101.124.19.122/32
 @@||2402:db40:5100:1011::5/128
 
-#JD Cloud
+# JD Cloud
 @@||103.224.222.208/32
 
-#Keep
+# Keep
 ||httpdns.calorietech.com
 
-#Kuaishou
+# Kuaishou
 ||kuaishou.httpdns.pro
 
-#Meituan
+# Meituan
 ||httpdns.meituan.com
 
-#NetEase
+# NetEase
 ||httpdns.yunxindns.com
 ||httpdns.n.netease.com
 ||music.httpdns.c.163.com
@@ -61,22 +61,22 @@
 @@||115.236.121.51/32
 @@||115.236.121.195/32
 
-#Oppo
+# Oppo
 ||httpdns.push.oppomobile.com
 
-#Tencent Cloud
+# Tencent Cloud
 @@||119.29.29.98/32
 @@||119.29.29.99/32
 
 #Volcengine
 ||httpdns.volcengineapi.com
 
-#Weibo
+# Weibo
 ||dns.weibo.cn
 @@||39.97.128.148/32
 @@||39.97.130.51/32
 
-#Weixin
+# Weixin
 ||dns.weixin.qq.com
 ||dns.weixin.qq.com.cn
 @@||42.81.232.18/32
@@ -87,27 +87,27 @@
 @@||2402:4e00:1900:1700:0:9554:1ad9:c3a/128
 @@||240e:928:1400:10::25/128
 
-#Wework
+# Wework
 @@||182.254.116.117/32
 @@||182.254.118.119/32
 
-#Zhihu
+# Zhihu
 @@||118.89.204.198/23
 @@||2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
-#HTTP Rules
+# HTTP Rules
 http://119.29.29.29:80
 http://dns.weixin.qq.com:80
 http://dns.weixin.qq.com:8080
 http://dns.weixin.qq.com:443
 
-#MITM Rules
+# MITM Rules
 ||119.29.29.29
 ||amdc.alipay.com
 ||amdc-sibling.alipay.com.cn
 ||dns.jd.com
 
-#URL Rewrite Rules
+# URL Rewrite Rules
 ||amdc.alipay.com/squery
 ||amdc-sibling.alipay.com.cn/squery
 ||110.76.8.150/squery
@@ -123,11 +123,11 @@ http://dns.weixin.qq.com:443
 ||2400:B200:1005:3000::1D3/squery
 ||2400:B200:5000:B000::C8/squery
 
-#Baidu Resolve Reject
+# Baidu Resolve Reject
 ||180.76.76.112/v4/resolve
 ||180.76.76.220/v4/resolve
 
-#Bilibili Resolve Reject
+# Bilibili Resolve Reject
 ||47.101.175.206/resolve
 ||47.100.123.169/resolve
 ||120.46.169.234/resolve
@@ -145,13 +145,13 @@ http://dns.weixin.qq.com:443
 ||112.64.218.119/resolve
 ||112.65.200.117/resolve
 
-#JD Resolve Reject
+# JD Resolve Reject
 ||dns.jd.com/v6/b
 
-#Meituan Fetch Reject
+# Meituan Fetch Reject
 ||103.37.155.60/fetch
 
-#Pinduoduo Reject
+# Pinduoduo Reject
 ||101.35.204.35/d
 ||101.35.212.35/d
 ||114.110.96.26/d
@@ -160,13 +160,13 @@ http://dns.weixin.qq.com:443
 ||240c:409f::3:0:359/d
 ||2402:4e00:1411:201:0:9964:ba21:5a41/d
 
-#QCloud Reject
+# QCloud Reject
 ||119.29.29.29/d
 
-#QQmusic Reject
+# QQmusic Reject
 ||182.256.116.116/d
 
-#Weibo API Reject
+# Weibo API Reject
 ||api.weibo.cn/2/httpdns/config
 ||api.weibo.cn/httpdns/config
 
@@ -176,14 +176,14 @@ http://dns.weixin.qq.com:443
 ||short.weixin.qq.com/cgi-bin/micromsg-bin/getcdndns
 ||hkextshort.weixin.qq.com/cgi-bin/micromsg-bin/getcdndns
 
-#Wework Reject
+# Wework Reject
 ||182.254.116.117/d
 ||182.254.118.119/d
 
-#Zhihu Resolve Reject
+# Zhihu Resolve Reject
 ||103.41.167.237/v2/resolv
 
-#Disney
+# Disney
 /Disney.*/$dnstype=AAAA
 /Disney+.*/$dnstype=AAAA
 ||cdn.registerdisney.go.com^$dnstype=AAAA
