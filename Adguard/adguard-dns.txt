@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Collection Adguard-DNS
+! Homepage: https://github.com/l-deo/A-Host-Collection
+! Description: Block some DOH
+! ! Version: 1.2
+
 # Alibaba
 ||httpdns.alicdn.com
 ||httpdns-api.aliyuncs.com
