@@ -8,7 +8,7 @@
 
 # amap	
 127.0.0.1 cgicol.amap.com
-#crashlytics	
+# crashlytics	
 127.0.0.1 firebase-settings.crashlytics.com
 # Hisense Smart TV
 ||api-gps-em.hismarttv.com
