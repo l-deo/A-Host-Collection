@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,eneba.com
 # ID.me
 DOMAIN-SUFFIX,id.me
+# grok
+DOMAIN-SUFFIX,grok.com
 # huggingface
 DOMAIN-SUFFIX,huggingface.co
 # Openai
