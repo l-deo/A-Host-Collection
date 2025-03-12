@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,eneba.com
 DOMAIN-SUFFIX,id.me
 # grok
 DOMAIN-SUFFIX,grok.com
+DOMAIN,x.ai
 DOMAIN-SUFFIX,x.ai
 # huggingface
 DOMAIN-SUFFIX,huggingface.co
