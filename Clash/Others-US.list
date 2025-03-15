@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,id.me
 # grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN,accounts.x.ai
-DOMAIN,console.x.ai
 # huggingface
 DOMAIN-SUFFIX,huggingface.co
 # Openai
