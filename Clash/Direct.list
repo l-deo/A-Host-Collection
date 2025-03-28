@@ -1,2 +1,15 @@
 # Microsoft
 DOMAIN-SUFFIX, time.windows.com
+# google
+DOMAN-SUFFIX, mtalk.google.com
+DOMAN-SUFFIX, mtalk4.google.com
+DOMAN-SUFFIX, mtalk-staging.google.com
+DOMAN-SUFFIX, mtalk-dev.google.com
+DOMAN-SUFFIX, alt1-mtalk.google.com
+DOMAN-SUFFIX, alt2-mtalk.google.com
+DOMAN-SUFFIX, alt3-mtalk.google.com
+DOMAN-SUFFIX, alt4-mtalk.google.com
+DOMAN-SUFFIX, alt5-mtalk.google.com
+DOMAN-SUFFIX, alt6-mtalk.google.com
+DOMAN-SUFFIX, alt7-mtalk.google.com
+DOMAN-SUFFIX, alt8-mtalk.google.com
