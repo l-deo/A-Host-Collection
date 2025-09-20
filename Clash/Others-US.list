@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 # huggingface
 DOMAIN-SUFFIX,huggingface.co
+# lmarena.ai
+DOMAIN-SUFFIX,lmarena.ai
 # Openai
 DOMAIN,cdn.auth0.com
 DOMAIN,challenges.cloudflare.com
@@ -20,5 +22,6 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,raise.com
 # WSJ
 DOMAIN-SUFFIX,dowjones.io
+
 
 
