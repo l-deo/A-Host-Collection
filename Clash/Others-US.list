@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,eneba.com
 # ID.me
 DOMAIN-SUFFIX,id.me
+# FreeBuff
+DOMAIN-SUFFIX,freebuff.ai
+DOMAIN-SUFFIX,codebuff.com
 # grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
