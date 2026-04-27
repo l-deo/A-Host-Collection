@@ -25,6 +25,8 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,raise.com
 # WSJ
 DOMAIN-SUFFIX,dowjones.io
+# Zed
+DOMAIN-SUFFIX,zed.dev
 
 
 
