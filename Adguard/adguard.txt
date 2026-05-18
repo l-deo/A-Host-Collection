@@ -1,5 +1,8 @@
-# ZTE
-||pushconn.ztems.com^
+# 2345
+||2345.cc^
+||2345.com^
+# ali
+||adtrack.qianwen.com^
 # amap	
 ||cgicol.amap.com^
 # bing
@@ -29,6 +32,9 @@
 ||ex.m.jd.com^
 ||hermes.jd.com^
 ||gias.jd.com^
+# Lenovo
+||ldc.lenovo.com.cn^
+||osfsr.lenovomm.com^
 # microsoft	
 127.0.0.1 vortex.data.microsoft.com
 ||tc.mm.bing.net^
@@ -44,7 +50,6 @@
 ||*.video.qq.com^
 ||wx.qlogo.cn^
 ||cwx.qlogo.cn^
-||sgshort.wechat.com^
 ||sgminorshort.wechat.com^
 ||sglong.wechat.com^
 ||mmhead.c2c.wechat.com^
@@ -70,18 +75,15 @@
 ||alog.umeng.co^
 ||errlog.umeng.com^
 ||ulogs.umeng.com^
-# Lenovo
-||ldc.lenovo.com.cn^
-||osfsr.lenovomm.com^
-# 2345
-||2345.cc^
-||2345.com^
 # others
 ||api.imjad.cn^
 ||data.game.xiaomi.com^
 ||dinkajn60b4lg.cloudfront.net^
 ||cdn.polyfill.io^
 ||b-www.facebook.com^
+||outservice.sscanmou.com^
+# ZTE
+||pushconn.ztems.com^
 ! 通用 CDN 域名
 ||bsccdn.net^
 ||gjfzpt.cn^
