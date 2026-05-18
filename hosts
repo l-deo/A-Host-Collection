@@ -1,3 +1,10 @@
+# ali
+0.0.0.0 adtrack.qianwen.com
+0.0.0.0 log.mmstat.com
+0.0.0.0 resolver.dingtalk.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 toblog.ctobsnssdk.com
+
 # amap	
 127.0.0.1 cgicol.amap.com
 
@@ -28,10 +35,6 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
-
-# taobao	
-127.0.0.1 tobapplog.ctobsnssdk.com
-127.0.0.1 toblog.ctobsnssdk.com
 
 # toutiao	
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
@@ -68,6 +71,7 @@
 127.0.0.1 b-www.facebook.com
 127.0.0.1 kalkgmbzfghq.com
 127.0.0.1 tripallmaljok.com
+0.0.0.0 outservice.sscanmou.com
 
 # 大圣净化规则
 127.0.0.1 gw.365you.com
