@@ -36,7 +36,7 @@
 ||ldc.lenovo.com.cn^
 ||osfsr.lenovomm.com^
 # microsoft	
-127.0.0.1 vortex.data.microsoft.com
+||vortex.data.microsoft.com^
 ||tc.mm.bing.net^
 # misiai	
 127.0.0.1 mall.misiai.com
