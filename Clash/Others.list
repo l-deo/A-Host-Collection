@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,conda.io
 # Apple
 DOMAIN-SUFFIX,tools.applemediaservices.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 # Awwwards
 DOMAIN-SUFFIX,awwwards.com
 # Civitai
