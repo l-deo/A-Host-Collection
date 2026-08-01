@@ -9,13 +9,13 @@ DOMAIN-SUFFIX,entsrv-uk.vodafone.com
 DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
 IP-CIDR,88.82.0.0/19
 # CMLinkUK EE
+DOMAIN-SUFFIX,ee.co.uk
 IP-CIDR,46.68.0.0/17
 # Giffgaff
 IP-CIDR,87.194.0.0/16
 # other
 DST-PORT,4500
 SRC-PORT,4500
-DOMAIN-SUFFIX,ee.co.uk
 DOMAIN-KEYWORD,epdg.epc.mnc030.mcc234
 DOMAIN-KEYWORD,epdg.epc.mnc033.mcc234
 DOMAIN-KEYWORD,epdg.epc.mnc020.mcc234
