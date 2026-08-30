@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,openwebui.com
 DOMAIN-SUFFIX,picacomic.com
 # poe
 DOMAIN-SUFFIX,poe.com
+# pve
+DOMAIN-SUFFIX,download.proxmox.com
 # Proton
 DOMAIN-SUFFIX,proton.me
 # Quarz
