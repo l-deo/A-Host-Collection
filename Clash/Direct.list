@@ -15,5 +15,7 @@ DOMAN-SUFFIX,alt5-mtalk.google.com
 DOMAN-SUFFIX,alt6-mtalk.google.com
 DOMAN-SUFFIX,alt7-mtalk.google.com
 DOMAN-SUFFIX,alt8-mtalk.google.com
+# tailscale
+DOMAN-SUFFIX,tailscale.com
 # others
 DOMAN-SUFFIX,l-deo.de
