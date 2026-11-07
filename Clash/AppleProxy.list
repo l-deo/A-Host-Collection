@@ -1,8 +1,18 @@
+# iCloud Private Relay
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN,cp4.cloudflare.com
+DOMAIN-SUFFIX,icloud-relay.apple.com
+
 # Apple Intelligence & Private Cloud Compute
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-# Apple News
+
+# Apple News & Apple Map
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
 DOMAIN-SUFFIX,apple.news
