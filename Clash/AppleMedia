@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,mvod.itunes.apple.com
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,shazam.com
-PROCESS-NAME,Music
-PROCESS-NAME,TV
+PROCESS-PATH,Music
+PROCESS-PATH,TV
