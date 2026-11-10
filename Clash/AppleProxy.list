@@ -6,6 +6,7 @@ DOMAIN,mask.apple-dns.net
 DOMAIN,canary.mask.apple-dns.net
 DOMAIN,cp4.cloudflare.com
 DOMAIN-SUFFIX,icloud-relay.apple.com
+DOMAIN-SUFFIX,api.devices.cloudflare.com
 
 # Apple Intelligence & Private Cloud Compute
 DOMAIN-SUFFIX,apple-relay.apple.com
