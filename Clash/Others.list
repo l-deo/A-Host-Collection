@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-KEYWORD,obsidian
 # openwebui
 DOMAIN-SUFFIX,openwebui.com
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
 # picacomic
 DOMAIN-SUFFIX,picacomic.com
 # poe
